@@ -1,0 +1,11 @@
+.profile {
+    background-repeat: no-repeat !important;
+    background-image: url('../assets/me.JPEG') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    width: 150px !important; /* Set a fixed width for the stamp size */
+    height: 150px !important; /* Set a fixed height for the stamp size */
+    border-radius: 50% !important; /* Make it circular */
+    margin: 0 auto !important; /* Center it within its container */
+  }
+  
