@@ -1,0 +1,8 @@
+.bg1{
+    background-repeat: no-repeat !important;
+    background-image: url('./leafs.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    align-items: center !important;
+    min-height: 100vh !important;
+}
