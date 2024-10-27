@@ -1,0 +1,30 @@
+/* CSS file or within a <style> tag */
+.img {
+    background-image: url('../assets/node.png');
+    background-size: cover; /* Ensures the image covers the entire space */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 4.5rem; 
+    height: 4.5rem; 
+    border-radius: 0.25rem; 
+}
+/* CSS file or within a <style> tag */
+.img2 {
+    background-image: url('../assets/Angular.png');
+    background-size: cover; /* Ensures the image covers the entire space */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 4.5rem; 
+    height: 4.5rem; 
+    border-radius: 0.25rem; 
+}
+
+.img3 {
+    background-image: url('../assets/pgadmin.png');
+    background-size: cover; /* Ensures the image covers the entire space */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 4.5rem; 
+    height: 4.5rem; 
+    border-radius: 0.25rem; 
+}
